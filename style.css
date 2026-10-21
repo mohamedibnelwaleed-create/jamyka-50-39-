@@ -1,10 +1,23 @@
+.title {
+	color: #5C6AC4;
+}
+
 img {
     width: 800px;
 }
-body {
-    text-align: center;
-    font-family: 'Arial';
-    font-size: 50px;
-    background-color: rgb(248, 246, 243);
-    color:rgb(59, 56, 43)
+
+h1, p{
+	text-align: center;
 }
+div{
+	color: aquamarine;
+}
+
+body {
+    font-family: 'Arial';
+    font-size: 16px;
+    color:rgb(59, 56, 43);
+	padding: 25px;
+	background-color: beige;
+}
+
